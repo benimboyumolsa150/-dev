@@ -1,0 +1,9 @@
+meme_dict = {
+            "MEME": "Komik olan veya ünlü olan kişinin yapılan veya anlamında şaka",
+            "LOL": "Komik bir şeye verilen cevap",
+            }
+word = input("Anlamadığınız bir kelime yazın (MEMES NE DEMEK? MEMES YAPILAN SHİTPOST VS GİBİ ŞEYLERE VEYA RİCKROLE GİBİ ŞEYLERE DENİR!): ")
+if word in meme_dict.keys():
+    #analamadım?
+else:
+    #anlamadım?
